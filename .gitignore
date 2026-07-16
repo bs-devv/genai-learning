@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+chiamata_base.ipynb
+chatbot_con_memoria.py
